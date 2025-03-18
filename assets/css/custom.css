@@ -1,0 +1,62 @@
+.publications h2 {
+    color: #333333; 
+  }
+
+.publications {
+    --global-divider-color: #666666; 
+  }
+
+ /* For the paper titles */
+.publications .title {
+  color: #bb0000;
+}
+
+/* For the badges */
+.publications ol.bibliography li .abbr abbr {
+  background-color: #bb0000 !important;
+  width: auto !important;   /* Override w-100 */
+  color: white !important;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 2px 5px;
+  border-radius: 2px !important;
+  margin-right: 3px;
+  line-height: 1;
+  white-space: nowrap;
+  width: fit-content;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.publications ol.bibliography li .abbr abbr.rounded {
+  border-radius: 1px !important;
+}
+
+.publications ol.bibliography li div.row {
+  --bs-gutter-x: 0.3rem;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  column-gap: 0.3rem !important;
+}
+
+/* Nearly no space below year heading */
+.publications h2.bibliography.year {
+  margin-bottom: 0rem !important;
+  padding-bottom: 0rem !important;
+  line-height: 1.1 !important;
+}
+
+/* Absolutely no space before the first publication */
+.publications ol.bibliography > li:first-of-type {
+  margin-top: -1rem !important; /* slightly pulls the first entry upward */
+  padding-top: 0 !important;
+}
+
+/* Make sure the list also has zero margin/padding */
+.publications ol.bibliography {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
