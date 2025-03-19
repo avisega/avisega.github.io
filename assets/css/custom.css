@@ -72,8 +72,9 @@
 */
 .more-info {
   font-family: inherit !important;
-  font-size: 1.05em !important;   /* Slightly larger than default */
-  line-height: 1.6 !important;    /* More relaxed line spacing */
+  font-size: inherit !important;   /* Slightly larger than default */
+  line-height: inherit !important;    /* More relaxed line spacing */
   color: inherit !important;
+  letter-spacing: 0.03em !important;  /* This will make letters feel more open */
   margin-top: 1rem !important;
 }
