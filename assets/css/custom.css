@@ -60,3 +60,13 @@
   padding-top: 0 !important;
 }
 
+.publications .title a {
+  color: #bb0000; /* Use exactly the same color as .title */
+  text-decoration: none;
+}
+
+/*
+.publications .title a:hover {
+  text-decoration: underline; 
+}
+*/
