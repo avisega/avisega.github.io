@@ -70,3 +70,10 @@
   text-decoration: underline; 
 }
 */
+.more-info {
+  font-family: inherit !important;
+  font-size: 1.05em !important;   /* Slightly larger than default */
+  line-height: 1.6 !important;    /* More relaxed line spacing */
+  color: inherit !important;
+  margin-top: 1rem !important;
+}
