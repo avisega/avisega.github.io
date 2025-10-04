@@ -3,7 +3,7 @@ title: "Detecting Struggling Student Programmers using Proficiency Taxonomies"
 subtitle: "Early-warning AI that models programming skills to flag at-risk students"
 year: 2025
 category: "AI & LLM"
-role: ["Co-Lead/Advisor"]
+role: ["Co-Lead"]
 img: /assets/img/projects/model_architecture.png
 importance: 100
 tags: ["Education", "LLM/ML", "Student Modeling"]
