@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD. &nbsp;|&nbsp; Software and Information Systems Engineering &nbsp;|&nbsp; Ben-Gurion University
+subtitle: PhD. &nbsp;|&nbsp; Computer and Information Science &nbsp;|&nbsp; Ben-Gurion University
 
 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher and lecturer at the Department of Software and Information Systems Engineering at Ben-Gurion University of the Negev, where I explore the intersection of artificial intelligence, education, and psychology. My research focuses on adaptive learning technologies, algorithms for mental health risk detection and intervention, and human-in-the-loop learning.
+I am a researcher and lecturer at the Faculty of Computer and Information Science at Ben-Gurion University of the Negev, where I explore the intersection of artificial intelligence, education, and psychology. My research focuses on adaptive learning technologies, algorithms for mental health risk detection and intervention, and human-in-the-loop learning.
 
 My work draws on diverse methods, including natural language processing, generative AI, and reinforcement learning, with a focus on explainable AI, interactive systems, and ethical design. I have contributed to international research projects on diversity-aware incentive design, human-AI collaboration, and intelligent support systems in educational and psychological contexts.
 
