@@ -82,19 +82,14 @@
 /* --- Normalize project title + subtitle sizing across environments --- */
 
 
-.qing-title,
-.project-title,
-h1.page-title {
+.qing-title {
   font-size: clamp(18px, 1.2vw + 20px, 26px) !important;
   line-height: 1.2;
   font-weight: 800;
   letter-spacing: -0.01em;
 }
 
-.qing-sub,
-.project-subtitle,
-.subtitle,
-h2.page-subtitle {
+.qing-sub {
   font-size: clamp(14px, 0.9vw + 16px, 18px) !important;
   line-height: 1.4;
   font-weight: 300;
