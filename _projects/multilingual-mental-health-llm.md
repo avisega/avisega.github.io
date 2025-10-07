@@ -3,7 +3,7 @@ title: "Multilingual LLMs for Sensitive Conversational AI"
 subtitle: "Developing Hebrew and Arabic domain-aligned language models with privacy-preserving fine-tuning"
 year: 2025, In Progress
 status: "Ongoing applied R&D in cooperation with the National Innovation Authority"
-category: "AI & Mental Health"
+category: "AI & LLM Engineering"
 role: ["Co-PI"]
 img: /assets/img/projects/MultilingualLLM.png
 importance: 998
