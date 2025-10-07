@@ -416,8 +416,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/human-ai-collaboration-citizen-science/";
-            },},{id: "projects-multilingual-llms-for-sensitive-conversational-ai",
-          title: 'Multilingual LLMs for Sensitive Conversational AI',
+            },},{id: "projects-aligning-llms-for-sensitive-conversational-ai",
+          title: 'Aligning LLMs for Sensitive Conversational AI',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/multilingual-mental-health-llm/";
