@@ -406,6 +406,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dual-mode-explanations/";
+            },},{id: "projects-environment-change-detection-and-vision-based-interaction-system",
+          title: 'Environment Change Detection and Vision-Based Interaction System',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/environment-change-detection-vision-system/";
             },},{id: "projects-human-ai-collaboration-in-citizen-science",
           title: 'Human–AI Collaboration in Citizen Science',
           description: "",
@@ -431,6 +436,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/qblooms-teacher-in-the-loop-mcqs/";
+            },},{id: "projects-real-time-human-ai-monitoring-for-group-interaction-analysis",
+          title: 'Real-Time Human–AI Monitoring for Group Interaction Analysis',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/real-time-human-ai-monitoring/";
+            },},{id: "projects-trajectory-corrected-intervention-optimizing-engagement-policies-with-offline-reinforcement-learning",
+          title: 'Trajectory-Corrected Intervention: Optimizing Engagement Policies with Offline Reinforcement Learning',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/trajectory-corrected-intervention/";
             },},{id: "projects-transparency-check-designing-and-auditing-transparency-in-ai-based-personalization-systems",
           title: 'Transparency-Check: Designing and Auditing Transparency in AI-Based Personalization Systems',
           description: "",
