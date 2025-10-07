@@ -78,3 +78,11 @@
   letter-spacing: 0.03em !important;  /* This will make letters feel more open */
   margin-top: 1rem !important;
 }
+
+/* Normalize project title size across environments */
+h1.page-title,
+.project-title {
+  font-size: 1.6rem !important;
+  line-height: 1.2 !important;
+  font-weight: 800;
+}
