@@ -416,6 +416,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/human-ai-collaboration-citizen-science/";
+            },},{id: "projects-multilingual-llms-for-sensitive-conversational-ai",
+          title: 'Multilingual LLMs for Sensitive Conversational AI',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/multilingual-mental-health-llm/";
             },},{id: "projects-optimizing-representations-and-policies-for-information-sequencing-with-reinforcement-learning",
           title: 'Optimizing Representations and Policies for Information Sequencing with Reinforcement Learning',
           description: "",
@@ -436,6 +441,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/qblooms-teacher-in-the-loop-mcqs/";
+            },},{id: "projects-adaptive-agentic-system-for-personalized-skill-development",
+          title: 'Adaptive Agentic System for Personalized Skill Development',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rambam-ai-adaptive-agentic-system/";
             },},{id: "projects-real-time-human-ai-monitoring-for-group-interaction-analysis",
           title: 'Real-Time Human–AI Monitoring for Group Interaction Analysis',
           description: "",
