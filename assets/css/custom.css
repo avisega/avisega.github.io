@@ -78,25 +78,3 @@
   letter-spacing: 0.03em !important;  /* This will make letters feel more open */
   margin-top: 1rem !important;
 }
-
-/* --- Normalize project title + subtitle sizing across environments --- */
-
-
-h3.qing-title {
-  font-size: clamp(18px, 1.2vw + 20px, 26px) !important;
-  line-height: 1.2;
-  font-weight: 800;
-  letter-spacing: -0.01em;
-}
-
-body .qing-sub {
-  font-size: clamp(14px, 0.9vw + 16px, 18px) !important;
-  line-height: 1.4;
-  font-weight: 300;
-  color: var(--global-text-color);
-  font-style: italic;
-}
-
-/* Lock base scaling to avoid remote root font-size drift */
-html { font-size: 16px !important; }
-body { -webkit-text-size-adjust: 100%; }
