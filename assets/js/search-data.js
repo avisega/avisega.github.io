@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Selected collection of key projects.",
+          description: "Selected collection of key academic projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -396,11 +396,26 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/detecting-struggling-students-proficiency-taxonomies/";
+            },},{id: "projects-difficulty-ranking-for-personalized-information-sequencing",
+          title: 'Difficulty Ranking for Personalized Information Sequencing',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/difficulty-ranking-personalization/";
             },},{id: "projects-dual-mode-explanations-for-suicide-risk-detection-in-online-mental-health-support",
           title: 'Dual-Mode Explanations for Suicide Risk Detection in Online Mental Health Support',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dual-mode-explanations/";
+            },},{id: "projects-human-ai-collaboration-in-citizen-science",
+          title: 'Human–AI Collaboration in Citizen Science',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/human-ai-collaboration-citizen-science/";
+            },},{id: "projects-optimizing-representations-and-policies-for-information-sequencing-with-reinforcement-learning",
+          title: 'Optimizing Representations and Policies for Information Sequencing with Reinforcement Learning',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/optimizing-representations-and-policies/";
             },},{id: "projects-predicting-bug-fix-time-in-students-programming-with-deep-language-models",
           title: 'Predicting Bug Fix Time in Students’ Programming with Deep Language Models',
           description: "",
