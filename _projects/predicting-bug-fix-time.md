@@ -5,7 +5,7 @@ year: 2023
 category: "AI & Education"
 role: ["PI/Lead"]
 img: /assets/img/projects/BugFixTime.png
-importance: 85
+importance: 87
 tags: ["Educational Data Mining", "Programming Education", "Deep Learning", "Code Modeling", "Student Support"]
 ---
 

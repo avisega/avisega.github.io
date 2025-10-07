@@ -1,0 +1,160 @@
+{"t": 1759663599.638037, "type": "start", "payload": {}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [5, 7], "keys": []}, "level": 3}
+{"t": 1759663599.877544, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [6, 7], "keys": []}, "level": 3}
+{"t": 1759663600.131319, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [7, 7], "keys": []}, "level": 3}
+{"t": 1759663600.8926852, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [4, 7], "keys": []}, "level": 3}
+{"t": 1759663601.1454341, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [3, 7], "keys": []}, "level": 3}
+{"t": 1759663601.3986938, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [2, 7], "keys": []}, "level": 3}
+{"t": 1759663601.651669, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [1, 7], "keys": []}, "level": 3}
+{"t": 1759663601.902261, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [1, 8], "keys": []}, "level": 3}
+{"t": 1759663602.1576, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [1, 9], "keys": []}, "level": 3}
+{"t": 1759663602.412079, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [2, 9], "keys": []}, "level": 3}
+{"t": 1759663602.6637309, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [3, 9], "keys": []}, "level": 3}
+{"t": 1759663602.916726, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [4, 9], "keys": []}, "level": 3}
+{"t": 1759663603.170906, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [4, 10], "keys": []}, "level": 3}
+{"t": 1759663603.4216719, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [4, 11], "keys": []}, "level": 3}
+{"t": 1759663603.67666, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [3, 11], "keys": []}, "level": 3}
+{"t": 1759663603.929562, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [2, 11], "keys": []}, "level": 3}
+{"t": 1759663604.1817842, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [1, 11], "keys": []}, "level": 3}
+{"t": 1759663604.4327512, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [1, 12], "keys": []}, "level": 3}
+{"t": 1759663604.6982741, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [1, 13], "keys": []}, "level": 3}
+{"t": 1759663604.9510772, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [2, 13], "keys": []}, "level": 3}
+{"t": 1759663605.203031, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [3, 13], "keys": []}, "level": 3}
+{"t": 1759663605.457576, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [4, 13], "keys": []}, "level": 3}
+{"t": 1759663605.7117, "type": "power", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [5, 13], "keys": []}, "level": 3}
+{"t": 1759663605.9658508, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [6, 13], "keys": []}, "level": 3}
+{"t": 1759663606.2204978, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [7, 13], "keys": []}, "level": 3}
+{"t": 1759663606.473352, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [8, 13], "keys": []}, "level": 3}
+{"t": 1759663606.726655, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 1], "keys": []}, "ai": {"pos": [9, 13], "keys": []}, "level": 3}
+{"t": 1759663606.811381, "type": "move", "payload": {"by": "human", "to": [2, 1]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 1], "keys": []}, "ai": {"pos": [9, 13], "keys": []}, "level": 3}
+{"t": 1759663606.811553, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 1], "keys": []}, "ai": {"pos": [9, 13], "keys": []}, "level": 3}
+{"t": 1759663606.98143, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 1], "keys": []}, "ai": {"pos": [10, 13], "keys": []}, "level": 3}
+{"t": 1759663607.235996, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 1], "keys": []}, "ai": {"pos": [11, 13], "keys": []}, "level": 3}
+{"t": 1759663607.287006, "type": "move", "payload": {"by": "human", "to": [3, 1]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 1], "keys": []}, "ai": {"pos": [11, 13], "keys": []}, "level": 3}
+{"t": 1759663607.28746, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 1], "keys": []}, "ai": {"pos": [11, 13], "keys": []}, "level": 3}
+{"t": 1759663607.488584, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 1], "keys": []}, "ai": {"pos": [12, 13], "keys": []}, "level": 3}
+{"t": 1759663607.538638, "type": "move", "payload": {"by": "human", "to": [4, 1]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [12, 13], "keys": []}, "level": 3}
+{"t": 1759663607.539104, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [12, 13], "keys": []}, "level": 3}
+{"t": 1759663607.7400398, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [13, 13], "keys": []}, "level": 3}
+{"t": 1759663607.994484, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [14, 13], "keys": []}, "level": 3}
+{"t": 1759663608.248183, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [15, 13], "keys": []}, "level": 3}
+{"t": 1759663608.502223, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [16, 13], "keys": []}, "level": 3}
+{"t": 1759663608.759846, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [17, 13], "keys": []}, "level": 3}
+{"t": 1759663609.013608, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [18, 13], "keys": []}, "level": 3}
+{"t": 1759663609.268841, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 13], "keys": []}, "level": 3}
+{"t": 1759663609.521987, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 12], "keys": []}, "level": 3}
+{"t": 1759663609.7735791, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 11], "keys": []}, "level": 3}
+{"t": 1759663609.7915552, "type": "speed", "payload": {"human": 0.05, "ai": 0.05}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 11], "keys": []}, "level": 3}
+{"t": 1759663609.8239691, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [18, 11], "keys": []}, "level": 3}
+{"t": 1759663609.874486, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [17, 11], "keys": []}, "level": 3}
+{"t": 1759663609.925753, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [16, 11], "keys": []}, "level": 3}
+{"t": 1759663609.9764879, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [16, 10], "keys": []}, "level": 3}
+{"t": 1759663610.028159, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [16, 9], "keys": []}, "level": 3}
+{"t": 1759663610.079648, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [17, 9], "keys": []}, "level": 3}
+{"t": 1759663610.129497, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [17, 8], "keys": []}, "level": 3}
+{"t": 1759663610.180804, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [17, 7], "keys": []}, "level": 3}
+{"t": 1759663610.2311838, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [16, 7], "keys": []}, "level": 3}
+{"t": 1759663610.2817879, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [15, 7], "keys": []}, "level": 3}
+{"t": 1759663610.332438, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [14, 7], "keys": []}, "level": 3}
+{"t": 1759663610.3836591, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [14, 8], "keys": []}, "level": 3}
+{"t": 1759663610.433085, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [14, 9], "keys": []}, "level": 3}
+{"t": 1759663610.4851468, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [13, 9], "keys": []}, "level": 3}
+{"t": 1759663610.536905, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [12, 9], "keys": []}, "level": 3}
+{"t": 1759663610.587817, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [11, 9], "keys": []}, "level": 3}
+{"t": 1759663610.6387682, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [11, 10], "keys": []}, "level": 3}
+{"t": 1759663610.6895099, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [11, 11], "keys": []}, "level": 3}
+{"t": 1759663610.740968, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [12, 11], "keys": []}, "level": 3}
+{"t": 1759663610.791546, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [13, 11], "keys": []}, "level": 3}
+{"t": 1759663610.8571599, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [14, 11], "keys": []}, "level": 3}
+{"t": 1759663610.908712, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [14, 10], "keys": []}, "level": 3}
+{"t": 1759663611.139471, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [12, 8], "keys": []}, "level": 3}
+{"t": 1759663611.190336, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [12, 7], "keys": []}, "level": 3}
+{"t": 1759663611.241288, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [11, 7], "keys": []}, "level": 3}
+{"t": 1759663611.2922938, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [10, 7], "keys": []}, "level": 3}
+{"t": 1759663611.343812, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [9, 7], "keys": []}, "level": 3}
+{"t": 1759663611.444075, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [10, 8], "keys": []}, "level": 3}
+{"t": 1759663612.016959, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [15, 6], "keys": []}, "level": 3}
+{"t": 1759663612.067425, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [15, 5], "keys": []}, "level": 3}
+{"t": 1759663612.118219, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [16, 5], "keys": []}, "level": 3}
+{"t": 1759663612.169346, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [17, 5], "keys": []}, "level": 3}
+{"t": 1759663612.220924, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663612.237607, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663612.2543669, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663612.271722, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 5], "keys": []}, "level": 3}
+{"t": 1759663612.322356, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 6], "keys": []}, "level": 3}
+{"t": 1759663612.3725939, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 7], "keys": []}, "level": 3}
+{"t": 1759663612.423434, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 1], "keys": []}, "ai": {"pos": [19, 8], "keys": []}, "level": 3}
+{"t": 1759663612.4768481, "type": "move", "payload": {"by": "human", "to": [4, 2]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 2], "keys": []}, "ai": {"pos": [19, 8], "keys": []}, "level": 3}
+{"t": 1759663612.477317, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 2], "keys": []}, "ai": {"pos": [19, 9], "keys": []}, "level": 3}
+{"t": 1759663612.477495, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 2], "keys": []}, "ai": {"pos": [19, 9], "keys": []}, "level": 3}
+{"t": 1759663612.524927, "type": "move", "payload": {"by": "human", "to": [4, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [19, 9], "keys": []}, "level": 3}
+{"t": 1759663612.5253062, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [19, 10], "keys": []}, "level": 3}
+{"t": 1759663612.525435, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [19, 10], "keys": []}, "level": 3}
+{"t": 1759663612.8432388, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [19, 4], "keys": []}, "level": 3}
+{"t": 1759663612.894196, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [19, 3], "keys": []}, "level": 3}
+{"t": 1759663612.9457128, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 3], "keys": []}, "level": 3}
+{"t": 1759663612.996085, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [17, 3], "keys": []}, "level": 3}
+{"t": 1759663613.047414, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [16, 3], "keys": []}, "level": 3}
+{"t": 1759663613.113007, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [16, 2], "keys": []}, "level": 3}
+{"t": 1759663613.383551, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [19, 2], "keys": []}, "level": 3}
+{"t": 1759663613.4866219, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 1], "keys": []}, "level": 3}
+{"t": 1759663613.538878, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [17, 1], "keys": []}, "level": 3}
+{"t": 1759663613.893721, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663613.909965, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663613.927063, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663614.0960798, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [14, 5], "keys": []}, "level": 3}
+{"t": 1759663614.148201, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [14, 4], "keys": []}, "level": 3}
+{"t": 1759663614.19951, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [13, 4], "keys": []}, "level": 3}
+{"t": 1759663614.266068, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [13, 3], "keys": []}, "level": 3}
+{"t": 1759663614.3164108, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [14, 3], "keys": []}, "level": 3}
+{"t": 1759663614.366633, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [14, 2], "keys": []}, "level": 3}
+{"t": 1759663614.4312131, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [14, 1], "keys": []}, "level": 3}
+{"t": 1759663614.482836, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [15, 1], "keys": []}, "level": 3}
+{"t": 1759663614.583235, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [13, 1], "keys": []}, "level": 3}
+{"t": 1759663614.63453, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [12, 1], "keys": []}, "level": 3}
+{"t": 1759663614.939796, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [12, 3], "keys": []}, "level": 3}
+{"t": 1759663614.990525, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [11, 3], "keys": []}, "level": 3}
+{"t": 1759663615.04174, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [11, 2], "keys": []}, "level": 3}
+{"t": 1759663615.550024, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663615.567445, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663615.584864, "type": "hazard", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [18, 5], "keys": []}, "level": 3}
+{"t": 1759663616.53073, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [10, 12], "keys": []}, "level": 3}
+{"t": 1759663616.6513522, "type": "move", "payload": {"by": "human", "to": [3, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 3], "keys": []}, "ai": {"pos": [9, 13], "keys": []}, "level": 3}
+{"t": 1759663616.65185, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 3], "keys": []}, "ai": {"pos": [9, 13], "keys": []}, "level": 3}
+{"t": 1759663616.699508, "type": "move", "payload": {"by": "human", "to": [2, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 3], "keys": []}, "ai": {"pos": [8, 13], "keys": []}, "level": 3}
+{"t": 1759663616.700011, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 3], "keys": []}, "ai": {"pos": [8, 13], "keys": []}, "level": 3}
+{"t": 1759663616.749517, "type": "move", "payload": {"by": "human", "to": [1, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [7, 13], "keys": []}, "level": 3}
+{"t": 1759663616.7497191, "type": "pellet", "payload": {"by": "human"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [7, 13], "keys": []}, "level": 3}
+{"t": 1759663617.1903481, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [1, 10], "keys": []}, "level": 3}
+{"t": 1759663617.394465, "type": "move", "payload": {"by": "human", "to": [2, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 3], "keys": []}, "ai": {"pos": [1, 7], "keys": []}, "level": 3}
+{"t": 1759663617.394891, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 3], "keys": []}, "ai": {"pos": [1, 6], "keys": []}, "level": 3}
+{"t": 1759663617.4445078, "type": "move", "payload": {"by": "human", "to": [3, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 3], "keys": []}, "ai": {"pos": [1, 6], "keys": []}, "level": 3}
+{"t": 1759663617.445195, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 3], "keys": []}, "ai": {"pos": [1, 5], "keys": []}, "level": 3}
+{"t": 1759663617.4953449, "type": "move", "payload": {"by": "human", "to": [4, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [1, 5], "keys": []}, "level": 3}
+{"t": 1759663617.4959161, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [2, 5], "keys": []}, "level": 3}
+{"t": 1759663617.5472279, "type": "key", "payload": {"by": "ai", "key": "r"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [3, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.6127481, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [4, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.6636648, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [5, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.713697, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [6, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.7647822, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [7, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.814829, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [8, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.865309, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [9, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.916233, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [10, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663617.967049, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [4, 3], "keys": []}, "ai": {"pos": [11, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663618.001575, "type": "move", "payload": {"by": "human", "to": [3, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 3], "keys": []}, "ai": {"pos": [11, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663618.018442, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [3, 3], "keys": []}, "ai": {"pos": [12, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663618.052651, "type": "move", "payload": {"by": "human", "to": [2, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [2, 3], "keys": []}, "ai": {"pos": [12, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663618.103523, "type": "move", "payload": {"by": "human", "to": [1, 3]}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [11, 5], "keys": ["r"]}, "level": 3}
+{"t": 1759663618.271573, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [8, 6], "keys": ["r"]}, "level": 3}
+{"t": 1759663618.627977, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [3, 4], "keys": ["r"]}, "level": 3}
+{"t": 1759663618.82934, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [1, 2], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.13431, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [6, 1], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.186162, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [7, 1], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.235502, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [8, 1], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.286906, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [9, 1], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.337195, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [10, 1], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.438964, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [9, 2], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.488395, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [9, 3], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.5385659, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [8, 3], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.589725, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [7, 3], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.640935, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [6, 3], "keys": ["r"]}, "level": 3}
+{"t": 1759663619.691071, "type": "pellet", "payload": {"by": "ai"}, "mode": 2, "comm": 1, "delegated": false, "human": {"pos": [1, 3], "keys": []}, "ai": {"pos": [6, 2], "keys": ["r"]}, "level": 3}

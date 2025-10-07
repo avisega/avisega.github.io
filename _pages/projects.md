@@ -2,7 +2,7 @@
 layout: page
 title: "projects"
 permalink: /projects/
-description: Selected collection of key projects.
+description: Selected collection of key academic projects.
 nav: true
 nav_order: 3
 ---
