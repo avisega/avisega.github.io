@@ -3,7 +3,7 @@ title: "Difficulty Ranking for Personalized Information Sequencing"
 subtitle: "Collaborative filtering and social choice methods for ranking under uncertainty"
 year: 2019
 category: "AI & Personalization"
-role: ["Lead"]
+role: ["PI/Lead"]
 img: /assets/img/projects/DifficultyRanking.png
 importance: 84
 tags: ["Ranking Algorithms", "Personalization", "Collaborative Filtering", "Social Choice", "Recommender Systems", "AI Optimization"]
