@@ -30,9 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher and lecturer at the Faculty of Computer and Information Science at Ben-Gurion University of the Negev, where I explore the intersection of artificial intelligence, education, and psychology. My research focuses on adaptive learning technologies, algorithms for mental health risk detection and intervention, and human-in-the-loop learning.
+I am a researcher and lecturer at the Faculty of Computer and Information Sciences at Ben-Gurion University of the Negev, combining a background in AI research, high-tech innovation, and interdisciplinary leadership. My work focuses on human–AI collaboration, adaptive systems, and responsible AI, integrating theory, empirical research, and large-scale implementation.
 
-My work draws on diverse methods, including natural language processing, generative AI, and reinforcement learning, with a focus on explainable AI, interactive systems, and ethical design. I have contributed to international research projects on diversity-aware incentive design, human-AI collaboration, and intelligent support systems in educational and psychological contexts.
+Drawing on experience in both academia and industry, I work across machine learning, natural language processing, and generative AI, with emphasis on explainability, human-centered design, and practical deployment.
 
-Before joining academia, I gained extensive experience in the high-tech sector, bringing a practical perspective that complements my academic research. I am always happy to connect and collaborate — feel free to reach out.
+Before academia, I held senior engineering and management roles in the high-tech sector and co-founded AI-driven ventures. This combination of scientific inquiry, applied development, and entrepreneurial execution drives my interest in building systems that are intelligent, ethical, and impactful.
 
+I am always happy to connect and collaborate - feel free to reach out.
