@@ -14,7 +14,7 @@ nav_order: 4
 <div class="industry-grid">
   <div class="role-card role-card--accent">
     <h3>Consulting</h3>
-    <p>Pro bono consulting for organizations adopting advanced AI: reinforcement learning, multi‑armed bandits, vector databases, and Large Language Models tuning & evaluation.</p>
+    <p>Advising organizations (including pro bono) on adopting advanced AI: reinforcement learning, multi‑armed bandits, RAG and vector databases, and Large Language Models tuning & evaluation.</p>
   </div>
 
     <div class="role-card">
