@@ -18,10 +18,17 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Selected collection of key academic projects.",
+          description: "Selected collection of key projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-industry",
+          title: "industry",
+          description: "Past leadership roles, startups, and enterprise impact across the high-tech industry.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/industry/";
           },
         },{id: "post-a-post-with-image-galleries",
       
