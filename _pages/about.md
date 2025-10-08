@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher and lecturer at the Faculty of Computer and Information Sciences at Ben-Gurion University of the Negev, combining a background in AI research, high-tech innovation, and interdisciplinary leadership. My work focuses on human–AI collaboration, adaptive systems, and responsible AI, integrating theory, empirical research, and large-scale implementation.
+I am a researcher and lecturer at the Faculty of Computer and Information Science at Ben-Gurion University of the Negev, combining a background in AI research, high-tech innovation, and interdisciplinary leadership. My work focuses on human–AI collaboration, adaptive systems, and responsible AI, integrating theory, empirical research, and large-scale implementation.
 
 Drawing on experience in both academia and industry, I work across machine learning, natural language processing, and generative AI, with emphasis on explainability, human-centered design, and practical deployment.
 
